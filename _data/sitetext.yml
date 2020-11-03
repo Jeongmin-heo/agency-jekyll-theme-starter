@@ -1,6 +1,6 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: 당신이 있는 지금 바로 여기
+    text: CulturePlace
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
