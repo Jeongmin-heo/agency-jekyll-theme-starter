@@ -70,18 +70,18 @@ clients:
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "AJOU"
+        url: https://http://www.ajou.ac.kr/
+        logo: assets/img/clients/clie_1.jpg
+      - title: "LINC"
+        url: https://https://linc.ajou.ac.kr/
+        logo: assets/img/clients/clie_2.jpg
+      - title: "서울시"
+        url: https://http://www.seoulup.or.kr/
+        logo: assets/img/clients/clie_3.jpg
+      - title: "모비랩"
+        url: https://www.facebook.com/mobizlab/
+        logo: assets/img/clients/clie_4.jpg
     
 team:
     title: "OUR AMAZING TEAM"
