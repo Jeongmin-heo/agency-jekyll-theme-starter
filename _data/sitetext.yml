@@ -91,7 +91,7 @@ team:
     people:
       - name: "허정민"
         role: "CEO"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/team_1.jpg
         social:
           - url: https://instagram.com/j25ngmini
             icon: fab fa-instagram
@@ -101,7 +101,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "최준규"
         role: "Brand Marketer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/team_2.jpg
         social:
           - url: https://instagram.com/chchq_
             icon: fab fa-instagram
@@ -111,7 +111,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "신석철"
         role: "Product Manager"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/team_3.jpg
         social:
           - url: https://instagram.com/such_sh
             icon: fab fa-instagram
@@ -121,7 +121,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "김세희"
         role: "Product Manager"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/team_4.jpg
         social:
           - url: https://instagram.com/s2_hee_k
             icon: fab fa-instagram
@@ -131,7 +131,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "전다예"
         role: "Sales Manager"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/team_5.jpg
         social:
           - url: https://instagram.com/lmallyes
             icon: fab fa-instagram
@@ -141,7 +141,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "허진아"
         role: "Sales Manager"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/team_6.jpg
         social:
           - url: https://instagram.com/lucid_xx1
             icon: fab fa-instagram
@@ -151,7 +151,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "마진경"
         role: "Designer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/team_7.jpg
         social:
           - url: https://instagram.com/moonscape1234
             icon: fab fa-instagram
