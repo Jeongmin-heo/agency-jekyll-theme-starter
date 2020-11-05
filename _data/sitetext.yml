@@ -148,17 +148,7 @@ team:
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
-            icon: fab fa-linkedin-in      
-       - name: "허정민"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://www.instagram.com/j25ngmini
-            icon: fab fa-instagram
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in            
+            icon: fab fa-linkedin-in               
             
 contact:
     title: "Contact Us"
