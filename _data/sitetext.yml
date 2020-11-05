@@ -40,7 +40,7 @@ timeline:
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "모비랩 모자이크 지원 사업 선정"
+      - title: "모비랩 모자이크 지원사업 선정"
         year: "September 2020"
         desc: "모비랩에서 주최하는 모자이크 지원 사업에 선정."
         image: assets/img/timeline/2.jpg
@@ -85,8 +85,8 @@ clients:
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "어벤저스 Jerajin 팀원을 소개합니다.."
+    subtext: 팀원이 되고싶으신 분은 언제든지 연락주세요
     section: team
     people:
       - name: "허정민"
@@ -113,7 +113,7 @@ team:
         role: "Product Manager"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://instagram.com
+          - url: https://instagram.com/such_sh
             icon: fab fa-instagram
           - url: https://facebook.com/profile.php?id=100005184764074
             icon: fab fa-facebook-f
@@ -176,7 +176,7 @@ footer:
         icon: "fab fa-linkedin-in"
       - url: https://github.com/raviriley/agency-jekyll-theme
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://instagram.com/culturingbook/
         icon: "fab fa-instagram"
 
 
