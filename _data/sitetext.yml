@@ -54,7 +54,7 @@ timeline:
         #align: #default is left       
       - title: "컬쳐링북 텀블벅 펀딩 600% 달성"
         year: "November 2020"
-        desc: "무려 600%라는 엄청난 펀딩 return 달성."
+        desc: "텀블벅 역사상 전무후무한 무려 600%라는 엄청난 펀딩 결과 달성."
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
@@ -93,9 +93,9 @@ team:
         role: "CEO"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
+          - url: https://instagram.com/j25ngmini
             icon: fab fa-instagram
-          - url: https://facebook.com
+          - url: https://facebook.com/zestjm
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
@@ -103,9 +103,9 @@ team:
         role: "Brand Marketer"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
+          - url: https://instagram.com/chchq_
             icon: fab fa-instagram
-          - url: https://facebook.com
+          - url: https://facebook.com/profile.php?id=100004883802796
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
@@ -113,9 +113,9 @@ team:
         role: "Product Manager"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
+          - url: https://instagram.com
             icon: fab fa-instagram
-          - url: https://facebook.com
+          - url: https://facebook.com/profile.php?id=100005184764074
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
@@ -123,9 +123,9 @@ team:
         role: "Product Manager"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
+          - url: https://instagram.com/s2_hee_k
             icon: fab fa-instagram
-          - url: https://facebook.com
+          - url: https://facebook.com/profile.php?id=100007195958444
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
@@ -133,9 +133,9 @@ team:
         role: "Sales Manager"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
+          - url: https://instagram.com/lmallyes
             icon: fab fa-instagram
-          - url: https://facebook.com
+          - url: https://facebook.com/daye1224
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
@@ -143,9 +143,9 @@ team:
         role: "Sales Manager"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
+          - url: https://instagram.com/lucid_xx1
             icon: fab fa-instagram
-          - url: https://facebook.com
+          - url: https://facebook.com/wlsdkgj520
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
@@ -153,9 +153,9 @@ team:
         role: "Designer"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
+          - url: https://instagram.com/moonscape1234
             icon: fab fa-instagram
-          - url: https://facebook.com
+          - url: https://facebook.com/profile.php?id=100026211195776
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
