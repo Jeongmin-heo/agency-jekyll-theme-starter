@@ -99,8 +99,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "최준규"
+        role: "Brand Marketer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -109,8 +109,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "신석철"
+        role: "Product Manager"
         image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
@@ -119,8 +119,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson2"
-        role: "Lead Developer"
+      - name: "김세희"
+        role: "Product Manager"
         image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
@@ -129,6 +129,37 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+       - name: "전다예"
+        role: "Sales Manager"
+        image: assets/img/team/3.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+        - name: "허진아"
+        role: "Sales Manager"
+        image: assets/img/team/3.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+        - name: "마진경"
+        role: "Designer"
+        image: assets/img/team/3.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+            
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
