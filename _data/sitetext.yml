@@ -89,72 +89,72 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "허정민"
+        role: "CEO"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fab fa-instagram
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "최준규"
+        role: "Brand Marketer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fab fa-instagram
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "신석철"
+        role: "Product Manager"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fab fa-instagram
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "김세희"
+        role: "Product Manager"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fab fa-instagram
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "전다예"
+        role: "Sales Manager"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fab fa-instagram
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "허진아"
+        role: "Sales Manager"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fab fa-instagram
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "마진경"
+        role: "Designer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fab fa-instagram
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
