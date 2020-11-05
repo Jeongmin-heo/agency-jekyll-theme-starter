@@ -10,13 +10,13 @@ services:
     section: services
     list:
       - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "온라인 스토어를 통해서 다양한 문화, 예술 관련 굿즈 상품을 판매하고 있습니다. "
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Culturing Book"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        desc: "문화를 담는 책, 컬쳐링북이라는 새로운 개념의 책을 개발하여 문화를 사랑하는 사람들과 함께 책을 채워나가고 있습니다."
+        icon: fas fa-book
       - title: "Tyvek"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "친환경 소재 타이벡을 활용하여 다양한 곳에 소재 공급 및 부가 상품을 개발하고 있습니다."
         icon: fas fa-laptop
       
      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
@@ -25,7 +25,7 @@ services:
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "현재 진행하고 있는 Project Portfolio."
     section: portfolio
     
 
@@ -42,17 +42,17 @@ timeline:
         align: left
       - title: "모비랩 모자이크 지원사업 선정"
         year: "September 2020"
-        desc: "모비랩에서 주최하는 모자이크 지원 사업에 선정."
+        desc: "주식회사 모비랩에서 주최하는 모자이크 지원 사업에 투자 선정."
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
       - title: "서울시 새활용 공모전 우수상"
         year: "October 2020"
-        desc: "타이벡을 활용한 교육용 쿨링컵 키트 제작. 서울특별시장상에 해당하는 우수상 수상."
+        desc: "타이벡을 활용한 교육용 쿨링컵 키트 제작 아이템을 주제로 우수상(서울특별시장상) 수상."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "컬쳐링북 텀블벅 펀딩 600% 달성"
+      - title: "컬쳐링북 펀딩 600% 달성"
         year: "November 2020"
         desc: "텀블벅 역사상 전무후무한 무려 600%라는 엄청난 펀딩 결과 달성."
         image: assets/img/timeline/4.jpg
@@ -85,7 +85,7 @@ clients:
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "어벤저스 Jerajin 팀원을 소개합니다.."
+    text: "어벤저스 Jerajin 팀원을 소개합니다"
     subtext: 팀원이 되고싶으신 분은 언제든지 연락주세요
     section: team
     people:
