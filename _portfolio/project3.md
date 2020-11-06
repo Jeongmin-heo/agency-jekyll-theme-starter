@@ -5,11 +5,11 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: 
 
 caption:
-  title: Finish
+  title: Cloth
   subtitle: Identity
   thumbnail: https://raw.githubusercontent.com/Jeongmin-heo/jerajin_project/master/assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+다음에 기회가 된다면 옷도 팔아보고 싶습니다.
 
 {:.list-inline}
 - Date: January 2017
