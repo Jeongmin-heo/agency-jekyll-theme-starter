@@ -5,12 +5,11 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: 
 
 caption:
-  title: Southwest
+  title: Design
   subtitle: Website Design
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
+우리팀의 보물, 21세기 디자인계의 최고 기대주 마진경님을 소개합니다.
 {:.list-inline}
 - Date: October 2019
 - Client: Southwest
