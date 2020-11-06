@@ -5,11 +5,11 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: 
 
 caption:
-  title: Lines
+  title: Tech
   subtitle: Branding
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+네. 저는 갤럭시를 사용하는 앱등이입니다.
 
 {:.list-inline}
 - Date: October 2019
