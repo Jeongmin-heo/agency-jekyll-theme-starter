@@ -111,7 +111,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "신석철"
         role: "Product Manager"
-        image: assets/img/team/team_3.jpg
+        image: assets/img/team/team_3.jpg.png
         social:
           - url: https://instagram.com/such_sh
             icon: fab fa-instagram
