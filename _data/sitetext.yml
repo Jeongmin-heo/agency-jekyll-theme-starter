@@ -43,19 +43,19 @@ timeline:
       - title: "모비랩 모자이크 지원사업 선정"
         year: "September 2020"
         desc: "주식회사 모비랩에서 주최하는 모자이크 지원 사업에 투자 선정."
-        image: assets/img/timeline/tiem_1.jpg
+        image: assets/img/timeline/time_1.jpeg
         alt: 
         align: right
       - title: "서울시 새활용 공모전 우수상"
         year: "October 2020"
         desc: "타이벡을 활용한 교육용 쿨링컵 키트 제작 아이템을 주제로 우수상(서울특별시장상) 수상."
-        image: assets/img/timeline/tiem_2.jpg
+        image: assets/img/timeline/time_2.jpg
         alt: image alt text
         #align: #default is left       
       - title: "컬쳐링북 펀딩 600% 달성"
         year: "November 2020"
         desc: "텀블벅 역사상 전무후무한 무려 600%라는 엄청난 펀딩 결과 달성."
-        image: assets/img/timeline/tiem_3.jpg
+        image: assets/img/timeline/time_3.jpg
         alt: 
         align: right
     end: "Be Part <br> of Our <br> Story!"
