@@ -9,7 +9,7 @@ caption:
   subtitle: Team Jerajin
   thumbnail: https://raw.githubusercontent.com/Jeongmin-heo/jerajin_project/master/assets/img/port_1.jpg
 ---
-제라진은 아주대학교 경영대학 창업 수업인 창업세미나로부터 시작되었습니다. 
+제라진은 아주대학교 경영대학 창업 수업인 창업세미나로부터 허정민과 함께 시작되었습니다. 
 
 {:.list-inline}
 - Date: January 2017
