@@ -6,13 +6,13 @@ alt:
 
 caption:
   title: Cloth
-  subtitle: Identity
+  subtitle: prepare
   thumbnail: https://raw.githubusercontent.com/Jeongmin-heo/jerajin_project/master/assets/img/portfolio/01-thumbnail.jpg
 ---
-다음에 기회가 된다면 옷도 팔아보고 싶습니다.
+타이벡을 통한 의류 사업 준비중
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
+- Date: November 2020
+- Client: prepare
 - Category: Identity
 
