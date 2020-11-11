@@ -9,10 +9,9 @@ caption:
   subtitle: Photography
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-기회가 된다면 다같이 여행을 가도 재미있을 것 같습니다!
+추가 서비스 준비중
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
-
+- Date: December 2020
+- Client: prepare
+- Category: prepare
