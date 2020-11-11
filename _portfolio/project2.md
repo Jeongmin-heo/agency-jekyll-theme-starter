@@ -5,14 +5,14 @@ image: https://www.1000gage.co.kr/shopimages/1000gage/0710070000022.jpg?14071250
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Tyvek
+  subtitle: new material
   thumbnail: https://www.1000gage.co.kr/shopimages/1000gage/0710070000022.jpg?1407125069
 ---
-지긋지긋한 타이벡. 이제는 놓아주고 싶습니다.
+우리삶의 꼭 필요한 신소재, 타이벡을 통해 세상을 더 깨끗하게 바꿔나가고 싶습니다. 
 
 {:.list-inline}
-- Date: January 2017
+- Date: August 2020
 - Client: Finish
-- Category: Identity
+- Category: Tyvek
 
