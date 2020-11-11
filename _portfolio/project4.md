@@ -9,10 +9,10 @@ caption:
   subtitle: Branding
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-네. 저는 갤럭시를 사용하는 앱등이입니다.
+추가 서비스 준비중
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: December 2020
+- Client: prepare
+- Category: prepare
 
