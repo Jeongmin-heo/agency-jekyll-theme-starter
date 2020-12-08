@@ -42,7 +42,7 @@ timeline:
         align: left
       - title: "모비랩 모자이크 지원사업 선정"
         year: "September 2020"
-        desc: "주식회사 모비랩에서 주최하는 모자이크 지원 사업에 투자 선정."
+        desc: "주식회사 모비랩에서 주최하는 모자이크 지원 사업 투자 기업 선정."
         image: assets/img/timeline/time_1.jpeg
         alt: 
         align: right
@@ -52,9 +52,9 @@ timeline:
         image: assets/img/timeline/time_2.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "컬쳐링북 펀딩 600% 달성"
+      - title: "컬쳐링북 펀딩 800% 달성"
         year: "November 2020"
-        desc: "텀블벅 역사상 전무후무한 무려 600%라는 엄청난 펀딩 결과 달성."
+        desc: "컬쳐링북 텀블벅 800% 펀딩 결과 달성."
         image: assets/img/timeline/time_3.jpg
         alt: 
         align: right
@@ -86,7 +86,7 @@ clients:
 team:
     title: "OUR AMAZING TEAM"
     text: "어벤저스 Jerajin 팀원을 소개합니다"
-    subtext: 능력있는 당신을 기다리고 있습니다..!
+    subtext: 
     section: team
     people:
       - name: "허정민"
