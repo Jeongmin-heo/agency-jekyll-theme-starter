@@ -52,9 +52,9 @@ timeline:
         image: assets/img/timeline/time_2.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "컬쳐링북 펀딩 800% 달성"
-        year: "November 2020"
-        desc: "컬쳐링북 텀블벅 800% 펀딩 결과 달성."
+      - title: "컬쳐링북 펀딩 2294% 달성"
+        year: "January 2021"
+        desc: "컬쳐링북 텀블벅 2294% 펀딩 결과 달성."
         image: assets/img/timeline/time_3.jpg
         alt: 
         align: right
