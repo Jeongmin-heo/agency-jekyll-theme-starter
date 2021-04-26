@@ -38,33 +38,33 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "About"
-    text: "Lorem ipsum timeline"
+    title: "About" 
+    text: "Jerajin timeline"
     section: timeline
-    # left is the default
-    #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Jerajin Beginnings"
+        year: "August 2020"
+        desc: "아주대학교 경영대학 창업 지원사업 선정과 함께 스타트업 제라진 설립."
         image: assets/img/timeline/3.jpg
+        alt: 
+        align: left
+      - title: "모비랩 모자이크 지원사업 선정"
+        year: "September 2020"
+        desc: "주식회사 모비랩에서 주최하는 모자이크 지원 사업 투자 기업 선정."
+        image: assets/img/timeline/time_1.jpeg
+        alt: 
+        align: right
+      - title: "서울시 새활용 공모전 우수상"
+        year: "October 2020"
+        desc: "타이벡을 활용한 교육용 쿨링컵 키트 제작 아이템을 주제로 우수상(서울특별시장상) 수상."
+        image: assets/img/timeline/time_2.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
+        #align: #default is left       
+      - title: "컬쳐링북 펀딩 2294% 달성"
+        year: "January 2021"
+        desc: "컬쳐링북 텀블벅 2294% 펀딩 결과 달성."
+        image: assets/img/timeline/time_3.jpg
+        alt: 
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
@@ -78,18 +78,19 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "AJOU"
+        url: https://http://www.ajou.ac.kr/
+        logo: assets/img/clients/clie_1.jpg
+      - title: "LINC"
+        url: https://https://linc.ajou.ac.kr/
+        logo: assets/img/clients/clie_2.jpg
+      - title: "서울시"
+        url: https://http://www.seoulup.or.kr/
+        logo: assets/img/clients/clie_3.jpg
+      - title: "모비랩"
+        url: https://www.facebook.com/mobizlab/
+        logo: assets/img/clients/clie_4.jpg
+    section: clients
 
   team:
       title: "OUR AMAZING TEAM"
