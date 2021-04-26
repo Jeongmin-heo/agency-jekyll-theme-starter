@@ -78,18 +78,18 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "AJOU"
-        url: https://http://www.ajou.ac.kr/
-        logo: assets/img/clients/clie_1.jpg
-      - title: "LINC"
-        url: https://https://linc.ajou.ac.kr/
-        logo: assets/img/clients/clie_2.jpg
       - title: "서울시"
         url: https://http://www.seoulup.or.kr/
         logo: assets/img/clients/clie_3.jpg
       - title: "모비랩"
         url: https://www.facebook.com/mobizlab/
         logo: assets/img/clients/clie_4.jpg
+      - title: "AJOU"
+        url: https://http://www.ajou.ac.kr/
+        logo: assets/img/clients/clie_1.jpg
+      - title: "LINC"
+        url: https://https://linc.ajou.ac.kr/
+        logo: assets/img/clients/clie_2.jpg
     section: clients
 
   team:
