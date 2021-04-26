@@ -10,18 +10,18 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
+    - title: "Servicios"
+      section: servicios
+    - title: "Portafolio"
+      section: portafolio
     - title: "About"
       section: timeline
     - title: "Team"
-      section: team
+      section: Team
     - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      section: Contact
+    - title: "Instagram"
+      url: https://www.instagram.com/culturingbook
 en-US:
   <<: *DEFAULT_EN
 en-CA:
