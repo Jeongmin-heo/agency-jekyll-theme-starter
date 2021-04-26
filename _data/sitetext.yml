@@ -5,8 +5,8 @@ header:
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
-    text: "제라진의 특별한 Services"
+    title: "Service"
+    text: "제라진의 특별한 Service"
     section: services
     list:
       - title: "E-Commerce"
