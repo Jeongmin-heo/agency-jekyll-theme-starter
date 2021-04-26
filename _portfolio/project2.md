@@ -1,7 +1,7 @@
 ---
 title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://www.1000gage.co.kr/shopimages/1000gage/0710070000022.jpg?1407125069
+image: http://www.1000gage.co.kr/shopimages/1000gage/054005000002.jpg?1407125069
 alt: 
 
 caption:
